@@ -1,0 +1,76 @@
+#div3 p {
+    font-size: 18px;
+}
+
+.first {
+    text-align: center;
+    color: blue
+}
+
+.name {
+    padding: 46px 355px;
+    padding-right: 197px;
+    margin: -23px 68px;
+    font-size: 60px;
+    font-family: 'Bree Serif', serif;
+    /* text-align: center; */
+    display: flex;
+    height: 162px;
+    width: 645px;
+    background: url('bg3resume.jpg') no-repeat center center/cover;
+}
+
+
+.name p {
+    padding-left: 50px;
+    font-size: 44px;
+
+}
+
+.same {
+    border: 2px solid rgb(0, 104, 0);
+    padding: 12px 3px;
+    margin: 2px 3px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    background-color: rgb(231 231 239);
+    text-align: center;
+}
+
+#div1 {
+    /* border: 2px solid red; */
+    margin: 24px 64px;
+
+}
+
+#div2 {
+    float: left;
+    width: 46%;
+}
+
+#div3 {
+    float: right;
+    width: 48%;
+}
+
+#div4 {
+    float: left;
+    width: 99.65%;
+    margin: 6px 3px;
+}
+
+#div5 {
+    float: left;
+    width: 48%;
+}
+
+#div6 {
+    float: right;
+    width: 48%;
+}
+
+.bold {
+    color: crimson;
+    font-family: 'Ubuntu', sans-serif;
+
+}
